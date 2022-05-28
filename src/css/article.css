@@ -3,8 +3,8 @@
     display: inline-block;
     height: 135vh;
     margin-bottom: 2%;
-    margin-left: 26%;
-    margin-top: 2%;
+    margin-left: 33%;
+        margin-top: 2%;
     /* border: 1px solid rebeccapurple; */
     overflow: hidden;
 
@@ -55,7 +55,7 @@
 .siren {
     font-size: 39px;
     text-align: center;
-    margin-left: 51px;
+    margin-left: 400px;
     margin-bottom: 0px;
     margin-top: -138px;
     font-variant: petite-caps;
@@ -87,7 +87,7 @@
 
 .more {
     width: 80vw;
-    margin-left: 15%;
+    margin-left: 22%;
     height: 250vh;
 
 
