@@ -1,0 +1,167 @@
+.Home_img_container_1 {
+    width: 80vw;
+    background-color: rgb(0 0 0 / 0%);
+    border: 1px solid black;
+    height: 188vh;
+    margin-left: 152.5px;
+    margin-top: -1px;
+}
+
+
+
+.Latest_Articles_container_1 {
+    background-color: rgb(81, 18, 145);
+    width: 80vw;
+    height: 185vh;
+
+}
+
+.Latest_Articles_items_1 {
+    width: 55vw;
+    height: 35vh;
+    background-color: white;
+    margin-top: 18px;
+    margin-left: 153px;
+    border: 1px solid rebeccapurple;
+}
+
+.Latest_Articles_items_H {
+    width: 55vw;
+    height: 35vh;
+    background-color: white;
+    border: 1px solid rebeccapurple;
+
+    margin-top: 18px;
+    margin-left: 0px;
+}
+
+.Add_1 {
+    width: 23.5vw;
+    height: 48vh;
+    margin-left: 1016px;
+    position: absolute;
+    top: 1342px;
+    background-color: #c11ecc;
+}
+
+.Add_H {
+    width: 23.5vw;
+    height: 50vh;
+    margin-left: 864px;
+    position: absolute;
+    top: 1558px;
+    background-color: #c11ecc;
+}
+
+.Latest_Articles_items_1 img {
+    width: 50%;
+    height: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+.Latest_Articles_items_H img {
+    width: 50%;
+    height: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+.Add_1 img {
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+.Add_H img {
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+.Top_posts_container_1 {
+    background-color: aliceblue;
+    display: inline-block;
+    width: 23.7vw;
+    height: 132.5vh;
+    position: absolute;
+    top: 257px;
+    margin-left: 1014px;
+
+}
+
+.Top_posts_container_H {
+    background-color: aliceblue;
+    display: inline-block;
+    width: 23.7vw;
+    height: 132.5vh;
+    position: absolute;
+    top: 1966px;
+    margin-left: 1015px;
+}
+
+
+.Top_posts_1 {
+    font-size: 3em;
+}
+
+.Top_posts_H {
+    font-size: 3em;
+}
+
+
+.Top_posts_hr_1 {
+    background-color: #bc61e1;
+    margin-left: 0px;
+    width: 26%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #bc61e1;
+    border-image: initial;
+    margin-bottom: 30px;
+
+}
+
+.Top_posts_hr_H {
+    background-color: #bc61e1;
+    margin-left: 0px;
+    width: 26%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #bc61e1;
+    border-image: initial;
+    margin-bottom: 30px;
+
+}
+
+.Top_posts_img_1 {
+    width: 100%;
+    height: 22vh;
+    background-color: white;
+    margin-top: 0px;
+}
+
+.Top_posts_img_H {
+    width: 100%;
+    height: 22vh;
+    background-color: white;
+    margin-top: 0px;
+}
+
+.Top_posts_img_1 img {
+    width: 50%;
+    height: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+    margin-top: 0px;
+}
+
+.Top_posts_img_H img {
+    width: 50%;
+    height: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+    margin-top: 0px;
+}
