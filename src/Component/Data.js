@@ -126,7 +126,7 @@ const Data = (props) => {
             "Title": " Top Gun 2 tipped to be Tom Cruise’s career-best opener with $125 million weekend",
             "CategoryName": "Hollywood",
             "PublishedDate": "Januaury 14 2021",
-            "ImageAsset": "http://m.gettywallpapers.com/wp-content/uploads/2021/09/Top-Gun-Maverick-Wallpapers-1536x864.jpg",
+            "ImageAsset": "https://images.hdqwalls.com/wallpapers/bthumb/top-gun-maverick-tom-cruise-4k-1o.jpg",
             "BlogContent": "Tom Cruise's Top Gun Maverick has been projected to earn $125 million in its opening weekend, which will comfortably make it he best opener in the actor's long career.As per trade reports, Tom Cruise’s upcoming film Top Gun: Maverick could end up registering the biggest opening by any film of his career. Despite his stardom, Tom has never had a film gross over $100 million on the opening weekend. But reports say that Maverick may just change that. Some estimates claim that the film could end up making $125 million in its opening weekend in the domestic market alone. Also read: Top Gun Maverick early reviews: Critics hail Tom Cruise-starrer as ‘great film’According to a report in The Hollywood Reporter, “Top Gun 2 is easily headed for the biggest opening of Tom Cruise’s career at the domestic box office, with a four-day gross of at least $92 million, according to official tracking. ",
             "Likes": "800K"
         },
